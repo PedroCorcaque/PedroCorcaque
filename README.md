@@ -1,16 +1,13 @@
-### Hi there 👋
+# [Pedro Lima Corçaque](https://www.linkedin.com/in/pedrocorcaque/)
 
-<!--
-**PedroCorcaque/PedroCorcaque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Tenho 21 anos e sou graduando em Engenharia de Automação pela Universidade Federal de Rio Grande (FURG). Faço parte da Equipe de Robótica FURGBOT, localizada no Centro de Ciencias Computacionais (C3), onde atualmente atuo implementando algoritmos de navegação autônoma para participar da Competição Brasileira de Robótica (CBR/LARC) na categoria Very Small Size Soccer (VSSS). Também trabalho com o desenvolvimento de um algoritmo de análise de arquivos STEP juntamente com o estudo sobre feature recognition para obtenção de features de arquivos CAD.
 
-Here are some ideas to get you started:
+## Skills
+- Análise de Dados utilizando Python
+- Breve conhecimentos sobre Front-End com HTML, CSS, JS
+- Desenvolvimentos de projetos utilizando Arduino
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Me
+- [E-mail](mailto:pedrollcorc@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/pedrocorcaque/)
