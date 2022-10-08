@@ -1,4 +1,4 @@
-# [Pedro Lima Corçaque](https://www.linkedin.com/in/pedrocorcaque/)
+## [Pedro Lima Corçaque](https://www.linkedin.com/in/pedrocorcaque/)
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
@@ -10,9 +10,11 @@
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Pedro-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cplusplus.svg">
 </div>
-
-## About Me
-Tenho 23 anos e sou graduando em Engenharia de Automação pela Universidade Federal de Rio Grande (FURG). Faço parte da Equipe de Robótica FURGBOT, localizada no Centro de Ciencias Computacionais (C3), onde já atuei nas categorias de Standard Education Kit (IEEE SEK) e na categoria Very Small Size Soccer (VSSS), onde implementei algoritmos de navegação autônoma para participar da Competição Brasileira de Robótica (CBR/LARC). Atualmente atuo na categoria RoboCup@Home, onde desenvolvemos soluções de robótica para tarefas domésticas. Auxilio também, junto à Unipampa, no desenvolvimento de uma área de sensoriamento do solo, onde os dados são enviados em tempo real para uma página web onde pode-se observar a variação de temperatura, umidade e condutividade elétrica do solo. Bolsista do PRH-22-ANP, desenvolvendo o trabalho "As Built para Grandes Estruturas de Engenharia da Indústria de Óleo & Gás Usando Dados Geométricos Simulados".
+  
+<div>
+  <a href = "mailto:pedrollcorc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pedrocorcaque" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 ## Contact Me
 - [E-mail](mailto:pedrollcorc@gmail.com)
