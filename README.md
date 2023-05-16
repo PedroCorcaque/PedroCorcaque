@@ -1,51 +1,39 @@
 ## Pedro Lima Corçaque
 
-## 🙋🏻 Sobre mim
+## About me
 
-Desenvolvedor Web Jr, cursando Engenharia de Automação na Universidade Federal de Rio Grande - FURG. Atualmente bolsista do projeto PRH-22 e bolsista voluntário na Equipe de Robótica FBOT na categoria de robótica doméstica @Home.
+Student of Automation Enginnering (9/10). Scholarship holder of PRH22-ANP, developing a 3D Dataset Generator of simulated geometric data for large engineering structures. I am also a volunteer scholarship holder at the Hydrone project, which focuses on the creation of an autonomous drone for participation in robotics competitions.
 
-### 🔓 Habilidades
+### Skills
 
-- Python (Flask, ROS, OOP, Robótica)
-- Web (JavaScript, React)
-- Android (ReactNative, Expo)
-- Banco de Dados (MongoDB, MySQL)
+- Python      (5 years)
+- Git/Github  (3 years)
+- ROS         (3 years)
+- Experience with embedded systems
+- C++, Go, JavaScript, Java, ReactNative, Docker e AWS (Basic)
 
 <div style="display: inline_block"><br>
   <!-- Python -->
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-  <!-- Flask -->
-  <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg">
-  
-  <!-- JS -->
-  <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  
-  <!-- React -->
-  <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-  
-  <!-- MongoDB -->
-  <img align="center" alt="Pedro-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
-  
-  <!-- MySQL -->
-  <img align="center" alt="Pedro-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   
   <!-- C++ -->
   <img align="center" alt="Pedro-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cplusplus.svg">
   
 </div>
 
-### 📚 Área de interesse
+### Interest in
 
-- Desenvolvimento full-stack
+- Robotics
+- Automation
+- Back-end development
 
-### 🏆 Premiações
+### Awards
 
 - 🥈 Competição Brasileira de Robótica - Simulado, 2021;
-- 🥇 Campeonato Mundial de Robótia Robocup@Home - Bangkok, Tailândia, 2022;
+- 🥇 Robotics World Championship - Robocup@Home - Bangkok, Thailand, 2022;
 - 🥇 Competição Brasileira de Robótica - São Paulo, Brasil, 2022;
   
-### 📞 Contatos
+### Contact me
   
 <div>
   <a href = "mailto:pedrollcorc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
