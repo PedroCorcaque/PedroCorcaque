@@ -2,15 +2,16 @@
 
 ## About me
 
-Student of Automation Enginnering (9/10). Scholarship holder of PRH22-ANP, developing a 3D Dataset Generator of simulated geometric data for large engineering structures. I am also a volunteer scholarship holder at the Hydrone project, which focuses on the creation of an autonomous drone for participation in robotics competitions.
+Student of Automation Enginnering (9/10). Scholarship holder of PRH22-ANP, developing a 3D Dataset Generator of simulated geometric data for large engineering structures. I am developing a 3D Data Annotator to simplify the process of point cloud annotation using CAD models (This project serves as my final undergraduate project, contributing to the fulfillment of the requirements for my first graduation). 
 
 ### Skills
 
-- Python      (5 years)
-- Git/Github  (3 years)
+- Python      (6 years)
+- Git/Github  (4 years)
 - ROS         (3 years)
+- C++         (1 year)
 - Experience with embedded systems
-- C++, Go, JavaScript, Java, ReactNative, Docker e AWS (Basic)
+- Go, JavaScript, Java, ReactNative, Docker e AWS (Basic)
 
 <div style="display: inline_block"><br>
   <!-- Python -->
@@ -30,7 +31,7 @@ Student of Automation Enginnering (9/10). Scholarship holder of PRH22-ANP, devel
 ### Awards
 
 - 🥈 Competição Brasileira de Robótica - Simulado, 2021;
-- 🥇 Robotics World Championship - Robocup@Home - Bangkok, Thailand, 2022;
+- 🥉 Robotics World Championship - Robocup@Home - Bangkok, Thailand, 2022;
 - 🥇 Competição Brasileira de Robótica - São Paulo, Brasil, 2022;
   
 ### Contact me
