@@ -2,25 +2,28 @@
 
 ## About me
 
-Student of Automation Enginnering (9/10). Scholarship holder of PRH22-ANP, developing a 3D Dataset Generator of simulated geometric data for large engineering structures. I am developing a 3D Data Annotator to simplify the process of point cloud annotation using CAD models (This project serves as my final undergraduate project, contributing to the fulfillment of the requirements for my first graduation). 
+I am an Automation Engineer with a passion for programming, robotics, and autonomous systems. My expertise lies in developing control systems and embedded vision solutions for autonomous vehicles, with a focus on navigation and perception. As a backend programmer, I thrive on designing efficient and scalable software architectures to support complex automation workflows.
+
+Beyond my professional pursuits, I am a FPV Drone enthusiast, exploring the possibilities of immersive flying experiences. I am also deeply involved in the world of Autonomous Drones, continuously seeking to push the boundaries of unmanned aerial technologies.
+
+With a diverse skill set spanning programming languages such as C++ and Python, I am dedicated to driving innovation in the field of automation and robotics. 
+
+### Last projects
+- [BUTIA BOTS System](https://github.com/butia-bots)
+  - A set of algorithms used to participate of, national and international, robotics competitions.
+- [CadAnnotatorTool](https://github.com/PedroCorcaque/CADAnnotatorTool)
+  - A tool to facilitate the annotation process in 3D models.
+- [Words API](https://github.com/PedroCorcaque/words-api)
+  - A simple API to get random words. 
 
 ### Skills
 
-- Python      (6 years)
-- Git/Github  (4 years)
-- ROS         (3 years)
-- C++         (1 year)
+- Python
+- Git/Github/Gitlab
+- ROS
+- C++
 - Experience with embedded systems
-- Go, JavaScript, Java, ReactNative, Docker e AWS (Basic)
-
-<div style="display: inline_block"><br>
-  <!-- Python -->
-  <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-  <!-- C++ -->
-  <img align="center" alt="Pedro-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cplusplus.svg">
-  
-</div>
+- Go, JavaScript, Java, ReactNative, Docker
 
 ### Interest in
 
